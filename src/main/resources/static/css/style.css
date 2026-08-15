@@ -1,0 +1,36 @@
+.navbar-custom {
+	/* background-color: #00246b; */
+	background-color: #001f3f;
+}
+
+.btn-navbar {
+	background-color: #001f3f !important;
+	color: white !important;
+	border: none;
+}
+
+.btn-navbar:hover {
+	background-color: #001f3f;
+	color: white;
+}
+
+.textWrap {
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 3em">
+}
+
+.card-sh {
+	box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.cat-div {
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);
+}
+
+.error {
+	color: red;
+}
